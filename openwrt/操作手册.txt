@@ -1,0 +1,13 @@
+编译整个工程
+cd trunk
+make
+
+生成的加载文件在目录bin/ar71xx下面
+内核
+openwrt-ar71xx-generic-uImage-lzma.bin
+文件系统
+openwrt-ar71xx-generic-root.squashfs-64k
+网页升级镜像
+openwrt-ar71xx-generic-db120-squashfs-sysupgrade.bin
+
+
